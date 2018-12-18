@@ -1,0 +1,1 @@
+The following section contatins files dedicated to the task of webscraping.
